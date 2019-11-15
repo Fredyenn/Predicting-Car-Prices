@@ -36,3 +36,8 @@ Attribute: Attribute Range
 24. city-mpg: continuous from 13 to 49.
 25. highway-mpg: continuous from 16 to 54.
 26. price: continuous from 5118 to 45400.
+
+
+
+----
+Overall, this project demostrate a basic workflow of a machine learning project. Data Cleaning, Feature Selection, and Hyperparameter tuning.
